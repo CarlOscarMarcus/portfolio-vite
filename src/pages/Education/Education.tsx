@@ -1,4 +1,3 @@
-import React from "react";
 import { TimelineContainer } from "../../components/TimelineCard/TimelineContainer";
 import type { TimelineItem } from "../../components/TimelineCard/types";
 import { Title } from "../../components/Title/Title";

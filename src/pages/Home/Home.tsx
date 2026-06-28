@@ -1,4 +1,3 @@
-import React from "react";
 import TextType from "../../components/RollingText/TextType";
 import { Title } from "../../components/Title/Title";
 import { NavLink } from "react-router";
@@ -52,7 +51,6 @@ export default function Home() {
 							cursorCharacter="_"
 							textColors={["White"]}
 							deletingSpeed={40}
-							variableSpeedEnabled={false}
 							cursorBlinkDuration={0.5}
 						/>
 					</div>

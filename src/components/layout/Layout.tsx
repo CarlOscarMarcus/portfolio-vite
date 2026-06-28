@@ -3,7 +3,7 @@ import Dock from "../Navbar/Dock";
 import Footer from "./Footer";
 import Header from "./Header";
 
-import { VscHome, VscAccount, VscBriefcase, VscBook } from "react-icons/vsc";
+import { VscHome, VscAccount, VscBook } from "react-icons/vsc";
 import TechSlider from "../TechSlider/TechSlider";
 import { SlSocialLinkedin } from "react-icons/sl";
 
