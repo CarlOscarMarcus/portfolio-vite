@@ -17,8 +17,11 @@ export default function Header() {
 
 			{/* FOREGROUND CONTENT */}
 			<div className="relative z-10 flex flex-col items-center justify-center h-full gap-2">
-				<Title text="Oscar Wystråle" />
-				<Title text="Full-Stack Developer | Software Engineer" />
+				<Title text="Oscar Wystråle" className="text-center" />
+				<Title
+					text="Full-Stack Developer | Software Engineer"
+					className="text-center"
+				/>
 			</div>
 		</div>
 	);
