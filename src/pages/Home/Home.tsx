@@ -38,7 +38,7 @@ export default function Home() {
 				<div className="mt-16">
 					<Title text="What I do" />
 
-					<div className="mt-6 text-2xl font-semibold text-slate-900 dark:text-white">
+					<div className="mt-6 text-2xl font-semibold text-slate-900">
 						<TextType
 							text={[
 								"Turning ideas into interactive experiences",
