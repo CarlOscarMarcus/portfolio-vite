@@ -16,11 +16,11 @@ export default function Header() {
 			</div>
 
 			{/* FOREGROUND CONTENT */}
-			<div className="relative z-10 flex flex-col items-center justify-center h-full gap-2 text-white">
-				<Title text="Oscar Wystråle" className="text-center" />
+			<div className="relative z-10 flex flex-col items-center justify-center h-full gap-2">
+				<Title text="Oscar Wystråle" className="text-center text-white" />
 				<Title
 					text="Full-Stack Developer | Software Engineer"
-					className="text-center"
+					className="text-center text-white"
 				/>
 			</div>
 		</div>
